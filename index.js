@@ -107,8 +107,9 @@ app.post("/login",(req,res)=>{
 })
 
 
+const port = process.env.PORT || 3010;
 
 //Ligando o Servidor
-app.listen(8001,()=>{
+app.listen(port,()=>{
     console.log("Servidor Rodando")
 });
