@@ -3,15 +3,9 @@ module.exports = {
 
             {
                 id: 1,
-                name:"Daniel Mendonca",
-                email:"danisanca@hotmail.com",
+                name:"User de Teste",
+                email:"teste@teste.com",
                 password:1234
-            },
-            {
-                id: 2,
-                name:"Denis Mendes",
-                email:"denissanca@hotmail.com",
-                password:12345
             }
           
         ]
